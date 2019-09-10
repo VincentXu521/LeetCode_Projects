@@ -1,0 +1,91 @@
+﻿  P9_Palindrome_Number.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p9_palindrome_number.cpp(37): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p9_palindrome_number.cpp(16): note: 参见“Solution”的声明
+  P8_str2int.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p8_str2int.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p8_str2int.cpp(44): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p8_str2int.cpp(48): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p8_str2int.cpp(72): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p8_str2int.cpp(24): note: 参见“Solution”的声明
+  P7_ReverseInteger.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p7_reverseinteger.cpp(57): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p7_reverseinteger.cpp(21): note: 参见“Solution”的声明
+  P6_ZigZagConversion.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p6_zigzagconversion.cpp(59): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p6_zigzagconversion.cpp(30): note: 参见“Solution”的声明
+  P5_LongestPalindromicSubstr.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p5_longestpalindromicsubstr.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p5_longestpalindromicsubstr.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p5_longestpalindromicsubstr.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p5_longestpalindromicsubstr.cpp(33): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p5_longestpalindromicsubstr.cpp(9): note: 参见“Solution”的声明
+  P4_findMedianSortedArrays.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p4_findmediansortedarrays.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p4_findmediansortedarrays.cpp(76): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p4_findmediansortedarrays.cpp(10): note: 参见“Solution”的声明
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p4_findmediansortedarrays.cpp(100): error C2371: “_”: 重定义；不同的基类型
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p4_findmediansortedarrays.cpp(69): note: 参见“_”的声明
+  P24_Swap_Nodes_in_Pairs.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p24_swap_nodes_in_pairs.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p24_swap_nodes_in_pairs.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+  P23_MergeKLists.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p23_mergeklists.cpp(74): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p23_mergeklists.cpp(30): note: 参见“Solution”的声明
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p23_mergeklists.cpp(199): error C2011: “cmp”:“struct”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p23_mergeklists.cpp(68): note: 参见“cmp”的声明
+  P22_Generate_Parentheses.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p22_generate_parentheses.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p22_generate_parentheses.cpp(52): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p22_generate_parentheses.cpp(23): note: 参见“Solution”的声明
+  P21_Merge_Two_Sorted_Lists.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p21_merge_two_sorted_lists.cpp(50): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p21_merge_two_sorted_lists.cpp(22): note: 参见“Solution”的声明
+  P20_Valid_Parentheses.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p20_valid_parentheses.cpp(60): error C2371: “_”: 重定义；不同的基类型
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p20_valid_parentheses.cpp(20): note: 参见“_”的声明
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p20_valid_parentheses.cpp(62): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p20_valid_parentheses.cpp(23): note: 参见“Solution”的声明
+  P19_RemoveNthFromEnd.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p19_removenthfromend.cpp(54): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p19_removenthfromend.cpp(26): note: 参见“Solution”的声明
+  P18_FourSum.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p18_foursum.cpp(76): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p18_foursum.cpp(24): note: 参见“Solution”的声明
+  P17_LetterCombinations.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p17_lettercombinations.cpp(56): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p17_lettercombinations.cpp(23): note: 参见“Solution”的声明
+  P16_ThreeSumClosest.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p16_threesumclosest.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p16_threesumclosest.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p16_threesumclosest.cpp(49): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p16_threesumclosest.cpp(15): note: 参见“Solution”的声明
+  P15_threeSum.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p15_threesum.cpp(49): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p15_threesum.cpp(23): note: 参见“Solution”的声明
+  P14_Longest_Common_Prefix.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(44): error C2371: “_”: 重定义；不同的基类型
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(9): note: 参见“_”的声明
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(50): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p14_longest_common_prefix.cpp(16): note: 参见“Solution”的声明
+  P13_Roman2Integer.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p13_roman2integer.cpp(61): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p13_roman2integer.cpp(16): note: 参见“Solution”的声明
+  P12_Integer2Roman.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p12_integer2roman.cpp(157): error C2371: “_”: 重定义；不同的基类型
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p12_integer2roman.cpp(38): note: 参见“_”的声明
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p12_integer2roman.cpp(164): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p12_integer2roman.cpp(66): note: 参见“Solution”的声明
+  P11_Container_With_Most_Water.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p11_container_with_most_water.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p11_container_with_most_water.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p11_container_with_most_water.cpp(38): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p11_container_with_most_water.cpp(20): note: 参见“Solution”的声明
+  正在生成代码...
+  正在编译...
+  P10_RegexMatching.cpp
+d:\c++\vs_c++\leetcode_projects\leetcode_projects\p10_regexmatching.cpp(37): error C2011: “Solution”:“class”类型重定义
+  d:\c++\vs_c++\leetcode_projects\leetcode_projects\p10_regexmatching.cpp(22): note: 参见“Solution”的声明
+  正在生成代码...
