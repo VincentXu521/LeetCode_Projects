@@ -144,5 +144,11 @@
     <ClCompile Include="P42_TrapRainWater.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="P43_MultiplyStrings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="P44_Wildcard Matching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

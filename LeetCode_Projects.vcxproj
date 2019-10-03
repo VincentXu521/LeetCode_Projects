@@ -184,6 +184,8 @@
     <ClCompile Include="P40_CombinationSum_II.cpp" />
     <ClCompile Include="P41_FirstMissingPositive.cpp" />
     <ClCompile Include="P42_TrapRainWater.cpp" />
+    <ClCompile Include="P43_MultiplyStrings.cpp" />
+    <ClCompile Include="P44_Wildcard Matching.cpp" />
     <ClCompile Include="P4_findMedianSortedArrays.cpp" />
     <ClCompile Include="P5_LongestPalindromicSubstr.cpp" />
     <ClCompile Include="P6_ZigZagConversion.cpp" />
